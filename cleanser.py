@@ -1,5 +1,4 @@
 import os
-import filecmp
 
 def find_duplicates(directory):
     # Dictionary to store file hashes
